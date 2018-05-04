@@ -25,7 +25,7 @@ SECRET_KEY = '7#*glq2w$ao$tgsbo#)1&wsgs-p(uuu^tlt^+43y5*jyc$=yl-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'cone-virtualbox']
 
 
 # Application definition
